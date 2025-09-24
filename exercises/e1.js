@@ -31,7 +31,7 @@ function logMessage() {
  */
 
 // Your code goes here...
-logMyMessage("I log my first message!");
+logMyMessage("Everything is fine");
 
 function logMyMessage(message) {
   console.log(message);
